@@ -11,6 +11,8 @@
 	};
 </script>
 
-<h1>Login</h1>
+<div class="flex items-center">
+	<h1>Login</h1>
 
-<Button on:click={handleLoginClick}>Login with GitHub</Button>
+	<Button on:click={handleLoginClick}>Login with GitHub</Button>
+</div>
