@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/jchrobakk/invoice-generator-sveltekit/compare/v1.0.1...v1.1.0) (2024-02-27)
+
+
+### Features
+
+* logout ([571df3c](https://github.com/jchrobakk/invoice-generator-sveltekit/commit/571df3c69ae545888efeb77cd5b5c7464f596cde))
+
 ## [1.0.1](https://github.com/jchrobakk/invoice-generator-sveltekit/compare/v1.0.0...v1.0.1) (2024-02-27)
 
 
